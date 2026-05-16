@@ -1,5 +1,5 @@
 # IPL_Rest_API-Spring-boot-
-# IPL Team REST API
+
 
 This is a Spring Boot REST API project using Java and MySQL.
 
